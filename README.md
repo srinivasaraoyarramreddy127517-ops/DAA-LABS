@@ -19,7 +19,7 @@ Summary:This pratical implements heap sort in python using the heapify technique
 order.it also measures execution time and displays the time and space complexity of the algorithm
 
 Conclusion: The practical demonstrates the working of heap sort and its efficent performance for sorting data.heap
-sort has O(n log n)time complexity in best, averaqge, and worst cases,with O(1)space complexity.
+sort has O(n log n)time complexity in best, average, and worst cases,with O(1)space complexity.
 
 practical-04:
 Summary:This practical implements factorial using iteratives and recursive methods in python.it calculates the 
