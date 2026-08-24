@@ -27,3 +27,13 @@ factorial of a number, measures execution time,and analyze the time and space co
 
 Conclusion:The pratical demontrates two approaches to factorial calculation and highlights their differences in
 space usage.the iterative method uses O(1) space,while the recursive method uses O(n) space due to function calls.
+
+Practical-07:
+Summary:The program uses Dynamic Programming to find the minimum number
+of coins required to make a given amount.
+
+
+Conclusion:It efficiently solves the Coin chain problem by storing previosly
+calculated results and avoiding repeated calvulation.
+
+
