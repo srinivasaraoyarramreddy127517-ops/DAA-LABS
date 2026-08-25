@@ -34,6 +34,6 @@ of coins required to make a given amount.
 
 
 Conclusion:It efficiently solves the Coin chain problem by storing previosly
-calculated results and avoiding repeated calvulation.
+calculated results and avoiding repeated calculations.
 
 
