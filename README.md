@@ -36,4 +36,12 @@ of coins required to make a given amount.
 Conclusion:It efficiently solves the Coin chain problem by storing previosly
 calculated results and avoiding repeated calculations.
 
+Practical-5:
+Summary: This program uses dynamic programming to solve the 0/1 Knapsack problem and calculates the maximum value that can be carried within the given capacity.
 
+Conclusion: The algorithm efficiently finds the optimal combination of items without exceeding the knapsack capacity.
+
+practical-6:
+Summary: This program uses dynamic programming to find the optimal order of multiplying a chain of matrices with the minimum number of scalar multiplications.
+
+Conclusion: The algorithm efficiently determines the most cost-effective parenthesization, reducing the computational effort required for matrix multiplication.
