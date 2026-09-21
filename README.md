@@ -45,3 +45,9 @@ practical-6:
 Summary: This program uses dynamic programming to find the optimal order of multiplying a chain of matrices with the minimum number of scalar multiplications.
 
 Conclusion: The algorithm efficiently determines the most cost-effective parenthesization, reducing the computational effort required for matrix multiplication.
+
+Practical-8
+Summary:In this practical, a graph was implemented using Python with a dictionary data structure. DFS (Depth First Search) was performed using a stack, and BFS (Breadth First Search) was performed using a queue. Both algorithms were used to visit all the vertices of the graph.
+
+Conclusion:
+Thus, the graph was successfully implemented in Python, and DFS and BFS traversals were executed successfully. DFS explores nodes deeply, while BFS visits nodes level by level.
