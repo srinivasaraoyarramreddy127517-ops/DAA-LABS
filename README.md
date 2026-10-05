@@ -46,12 +46,17 @@ Summary: This program uses dynamic programming to find the optimal order of mult
 
 Conclusion: The algorithm efficiently determines the most cost-effective parenthesization, reducing the computational effort required for matrix multiplication.
 
-Practical-8
+Practical-8:
 Summary:In this practical, a graph was implemented using Python with a dictionary data structure. DFS (Depth First Search) was performed using a stack, and BFS (Breadth First Search) was performed using a queue. Both algorithms were used to visit all the vertices of the graph.
 
 Conclusion:Thus, the graph was successfully implemented in Python, and DFS and BFS traversals were executed successfully. DFS explores nodes deeply, while BFS visits nodes level by level.
 
-Practical-9
+Practical-9:
 Summary:This program implements Prim’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. It uses an adjacency matrix and starts from vertex 0. In each step, it selects the minimum-weight edge that connects a selected vertex to an unselected vertex until all vertices are included.
 
 Conclusion:The program successfully finds the Minimum Spanning Tree by selecting the minimum-cost edges without forming unnecessary connections. Prim’s Algorithm is useful for finding the minimum total cost required to connect all vertices in a weighted graph.
+
+practical-10:
+Summary:Kruskal’s algorithm was implemented in Python using alphabet vertices A, B, C, D, and E. The edges are sorted according to their weights, and the smallest edges are selected without creating a cycle to form the Minimum Spanning Tree.
+
+Conclusion:Thus, the Kruskal’s algorithm was successfully implemented to find the Minimum Spanning Tree (MST) of the given weighted graph. The minimum cost obtained is 16, with the selected edges A-B, B-C, B-E, and A-D.
