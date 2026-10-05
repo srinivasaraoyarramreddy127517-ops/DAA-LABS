@@ -49,5 +49,9 @@ Conclusion: The algorithm efficiently determines the most cost-effective parenth
 Practical-8
 Summary:In this practical, a graph was implemented using Python with a dictionary data structure. DFS (Depth First Search) was performed using a stack, and BFS (Breadth First Search) was performed using a queue. Both algorithms were used to visit all the vertices of the graph.
 
-Conclusion:
-Thus, the graph was successfully implemented in Python, and DFS and BFS traversals were executed successfully. DFS explores nodes deeply, while BFS visits nodes level by level.
+Conclusion:Thus, the graph was successfully implemented in Python, and DFS and BFS traversals were executed successfully. DFS explores nodes deeply, while BFS visits nodes level by level.
+
+Practical-9
+Summary:This program implements Prim’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. It uses an adjacency matrix and starts from vertex 0. In each step, it selects the minimum-weight edge that connects a selected vertex to an unselected vertex until all vertices are included.
+
+Conclusion:The program successfully finds the Minimum Spanning Tree by selecting the minimum-cost edges without forming unnecessary connections. Prim’s Algorithm is useful for finding the minimum total cost required to connect all vertices in a weighted graph.
